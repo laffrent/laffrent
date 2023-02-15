@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="matplotlib" alt="matplotlib" width="60" height="60"/>&nbsp;
-  <img src="https://plotly.com/all_static/images/graphing_library.svg" title="Plotly" alt="Plotly" width="160" height="60"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" title="Plotly" alt="Plotly" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" title="CatBoost" alt="CatBoost" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
@@ -39,9 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :gear: Github Analytics :
 
-<p align="center">
-  <a href="https://github.com/laffrent/">
-    <img height="380" width="380" src="https://github-readme-stats.vercel.app/api?username=laffrent&show_icons=true&theme=great-gatsby&count_private=true"/>
-    <img height="380" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laffrent&theme=great-gatsby"/>
-  </a>
-</p>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laffrent&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laffrent&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+

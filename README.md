@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://github.com/laffrent/">
     <img height="380" width="380" src="https://github-readme-stats.vercel.app/api?username=laffrent&show_icons=true&theme=great-gatsby&count_private=true"/>
-    <img height="380" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laffrent&layout=compact&theme=great-gatsby"/>
+    <img height="380" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laffrent&theme=great-gatsby"/>
   </a>
 </p>

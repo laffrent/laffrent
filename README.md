@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" title="CatBoost" alt="CatBoost" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/80px-Keras_logo.svg.png" title="Keras" alt="Keras" width="60" height="60"/>
 </div>
 
 ---

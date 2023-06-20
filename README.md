@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-### About Me :
+### 💻 About Me :
 **My name is Evgeniy Tolstoy. I'm mechanical engineer, civil engineer and now I'm looking for a job in Data scince.**
 
 ---
 
-### My Stack :
+### 🕸️ My Stack :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -38,9 +38,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :gear: Github Analytics :
+### ⚙️ Github Analytics :
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laffrent&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laffrent&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏁 My CodeWars rating
+![image](https://www.codewars.com/users/laffrent%20/badges/large)
 

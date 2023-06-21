@@ -44,6 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laffrent&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏁 My CodeWars rating
+### 🏁 My CodeWars rating
 ![image](https://www.codewars.com/users/laffrent%20/badges/large)
 

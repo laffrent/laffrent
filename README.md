@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 💻 About Me :
-**My name is Evgeniy Tolstoy. I'm mechanical engineer, civil engineer and now I'm looking for a job in Data scince.**
+**My name is Evgeniy Tolstoy. I'm mechanical engineer, civil engineer and now I'm working in Data science.**
 
 ---
 

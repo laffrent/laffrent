@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 💻 About Me :
-**My name is Evgeniy Tolstoy. I love working in Data Science.**
+**My name is Evgeniy Tolstoy. Welcome**
 
 ---
 
